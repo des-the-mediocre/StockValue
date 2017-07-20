@@ -1,2 +1,2 @@
 # StockValue
-Python program to find value of a stock
+Python programs relating to values of stocks
